@@ -1,6 +1,5 @@
 # Boss-Experiment
-This is a simple experiment to gain various insights of past SMU BOSS bidding Results
-One or two sentences describing the purpose and main features of your project.
+This is a simple experiment to gain various insights of past SMU BOSS bidding results.
 
 ## Table of Contents
 - [Project Description](#project-description)
